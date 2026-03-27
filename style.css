@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'bebas neue';
-    src: url('Assets/Font/BebasNeue-Regular.otf') format('truetype');
+    src: url('BebasNeue-Regular.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
@@ -49,7 +49,7 @@
     background-color: aqua;
     margin: 1px;
     overflow: hidden;
-    background-image: url("Assets/Other/ban.png");
+    background-image: url("ban.png");
     background-position: center;
     background-size: 100%;
     filter: grayscale(100%);
@@ -60,7 +60,7 @@
     width: 350px;   
     height: 80px;
     background-color:#9900ff;
-    background-image:url("Assets/Other/Tournamentnamebg.jpg");
+    background-image:url("Tournamentnamebg.jpg");
     background-size: 105%;
     background-position: center;
     margin-top: 1.3px;
@@ -99,7 +99,7 @@
     width: 350px;
     height: 250px;
     background-color: #9900ff;
-    background-image: url("Assets/Other/Tounamentinfobg.jpg");
+    background-image: url("Tounamentinfobg.jpg");
     background-size: 110%;
     background-position: center;    
     margin-left: 5px;
@@ -241,7 +241,7 @@ button {
     background-color: blueviolet;
     margin: 1px;
     overflow: hidden;
-    background-image: url("Assets/Other/Pickbg.jpg");
+    background-image: url("Pickbg.jpg");
     background-position: center;
     background-size: 110%;
     overflow: hidden;
