@@ -355,19 +355,19 @@ function switchAll() {
 //timer
 
 const phases = [
-    { type: "Blue Ban Phase", direction: "/Assets/Other/Left.gif" },
-    { type: "Red Ban Phase", direction: "/Assets/Other/Right.gif" },
-    { type: "Blue Ban Phase", direction: "/Assets/Other/Left.gif" },
-    { type: "Red Ban Phase", direction: "/Assets/Other/Right.gif" },
-    { type: "Blue Pick Phase", direction: "/Assets/Other/Left.gif" },
-    { type: "Red Pick Phase", direction: "/Assets/Other/Right.gif" },
-    { type: "Blue Pick Phase", direction: "/Assets/Other/Left.gif" },
-    { type: "Red Pick Phase", direction: "/Assets/Other/Right.gif" },
-    { type: "Red Ban Phase", direction: "/Assets/Other/Right.gif" },
-    { type: "Blue Ban Phase", direction: "/Assets/Other/Left.gif" },
-    { type: "Red Pick Phase", direction: "/Assets/Other/Right.gif" },
-    { type: "Blue Pick Phase", direction: "/Assets/Other/Left.gif" },
-    { type: "Red Pick Phase", direction: "/Assets/Other/Right.gif" },
+    { type: "Blue Ban Phase", direction: "Left.gif" },
+    { type: "Red Ban Phase", direction: "Right.gif" },
+    { type: "Blue Ban Phase", direction: "Left.gif" },
+    { type: "Red Ban Phase", direction: "Right.gif" },
+    { type: "Blue Pick Phase", direction: "Left.gif" },
+    { type: "Red Pick Phase", direction: "Right.gif" },
+    { type: "Blue Pick Phase", direction: "Left.gif" },
+    { type: "Red Pick Phase", direction: "Right.gif" },
+    { type: "Red Ban Phase", direction: "Right.gif" },
+    { type: "Blue Ban Phase", direction: "Left.gif" },
+    { type: "Red Pick Phase", direction: "Right.gif" },
+    { type: "Blue Pick Phase", direction: "Left.gif" },
+    { type: "Red Pick Phase", direction: "Right.gif" },
 ];
 
 let currentPhaseIndex = 0; // Track the current phase
