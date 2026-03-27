@@ -394,7 +394,7 @@ function updateUI() {
     } else {
         // When all phases are completed
         phaseElement.textContent = "Finalizing";
-        arrowElement.src = "/Assets/Other/Adjustment.gif"; // Remove arrow image
+        arrowElement.src = "Adjustment.gif"; // Remove arrow image
         timerElement.textContent = "VS";
         nextPhaseButton.disabled = true; // Disable the button
     }
