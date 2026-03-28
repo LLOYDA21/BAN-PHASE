@@ -82,7 +82,7 @@ const heroes = [
     { name: 'Lunox', img: 'lunox.png' },
     { name: 'Luo Yi', img: 'luoyi.png' },
     { name: 'Lylia', img: 'lylia.png' },
-    { name: 'Marcel', img: 'mars.png' },
+    { name: 'Marcel', img: 'mars.jpg' },
     { name: 'Martis', img: 'martis.png' },
     { name: 'Masha', img: 'masha.png' },
     { name: 'Mathilda', img: 'mathilda.png' },
