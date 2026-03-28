@@ -31,7 +31,7 @@ const heroes = [
     { name: 'Clint', img: 'clint.png' },
     { name: 'Cyclops', img: 'cyclops.png' },
     { name: 'Diggie', img: 'diggie.png' },
-    { name: 'Dyrroth', img: 'dyroth.png' },
+    { name: 'Dyrroth', img: 'dyrroth.png' },
     { name: 'Edith', img: 'edith.png' },
     { name: 'Esmeralda', img: 'esmeralda.png' },
     { name: 'Estes', img: 'estes.png' },
