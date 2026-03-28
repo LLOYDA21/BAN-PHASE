@@ -66,6 +66,7 @@ const heroes = [
     { name: 'Kadita', img: 'kadita.png' },
     { name: 'Kagura', img: 'kagura.png' },
     { name: 'Kaja', img: 'kaja.png' },
+    { name: 'Kalea', img: 'kalea.png' },
     { name: 'Karina', img: 'karina.png' },
     { name: 'Karrie', img: 'karrie.png' },
     { name: 'Khaleed', img: 'khaleed.png' },
@@ -96,6 +97,7 @@ const heroes = [
     { name: 'Natan', img: 'natan.png' },
     { name: 'Nolan', img: 'nolan.png' },
     { name: 'Novaria', img: 'novaria.png' },
+    { name: 'Obsidia', img: 'obsidia.png' },
     { name: 'Odette', img: 'odette.png' },
     { name: 'Paquito', img: 'paquito.png' },
     { name: 'Pharsa', img: 'pharsa.png' },
@@ -124,6 +126,7 @@ const heroes = [
     { name: 'Yi Sun-shin', img: 'yisunshin.png' },
     { name: 'Yu Zhong', img: 'yuzhong.png' },
     { name: 'Yve', img: 'yve.png' },
+    { name: 'Zetian', img: 'zetian.png' },
     { name: 'Zhask', img: 'zhask.png' },
     { name: 'Zhuxin', img: 'zhuxin.png' },
     { name: 'Zilong', img: 'zilong.png' }
