@@ -17,7 +17,7 @@ const heroes = [
     { name: 'Barats', img: 'barats.png' },
     { name: 'Baxia', img: 'baxia.png' },
     { name: 'Beatrix', img: 'beatrix.png' },
-    { name: 'Belerick', img: 'belerick.png' },
+    { name: 'Belerick', img: 'beleric.png' },
     { name: 'Benedetta', img: 'benedetta.png' },
     { name: 'Brody', img: 'brody.png' },
     { name: 'Bruno', img: 'bruno.png' },
